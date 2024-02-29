@@ -7,7 +7,7 @@
       <br>  
  </body>
   <body>
-      <img align="right" height="300" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">  
+      <img align="right" height="200" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">  
   </body>
       <br>
 <body>
