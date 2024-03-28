@@ -1,6 +1,6 @@
  <body>
       <h1 align="center" tabindex="-1" class="heading-element" dir="auto">Hi 👋,  I’m <a href="https://www.katkojwala.com" rel="follow">Karthik Katkojwala</a></h1>
-      A certified AWS DevOps Engineer with over 5+ years of experience in designing, developing, and maintaining cloud-based applications and infrastructure.
+      I'm a certified AWS DevOps Engineer with over 5+ years of experience in designing, developing, and maintaining cloud-based applications and infrastructure.
       Skilled in using AWS services, Python scripting, Jenkins, Terraform, Docker, Ansible, and other DevOps tools to automate and optimize processes.
       Proven track record of delivering high-quality products with reduced errors, increased efficiency, and improved reliability.
       A team player with excellent communication and collaboration skills.
